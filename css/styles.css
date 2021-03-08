@@ -26,7 +26,7 @@ body {
 }
 
 #piz-pap {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
     font-size: 35px;
     font-weight: normal;
     color: green;
@@ -54,7 +54,7 @@ li {
 }
 
 figcaption {
-    font-family: 'Tangerine', serif;
+    font-family: 'Tangerine', serif !important;
 }
 
 #menu {
@@ -72,7 +72,7 @@ figcaption {
 
 .order-summary h1, .summary, .contact {
     background-color: darkred;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
     margin-top: 30px;
 }
 
@@ -145,13 +145,13 @@ input[type="email"] {
 h4 {
     margin: 0;
     padding: 0;
-    font-family: 'Tangerine', sans-serif;
+    font-family: 'Tangerine', sans-serif !important;
     letter-spacing: 1px;
 }
 
 #order-pizza {
     padding: 20px 50px 20px 50px;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
 }
 
 .order-overlay {
@@ -182,7 +182,7 @@ h4 {
 }
 
 #menu {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
 }
 
 .menu-overlay {
@@ -213,11 +213,11 @@ h4 {
 }
 
 .landing-text h1, h2 {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
 }
 
 .landing-text h1 {
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
     font-size: 60px;
 }
 
@@ -238,14 +238,14 @@ figure img {
 }
 
 .txt {
-    font-family: system-ui, cursive;
+    font-family: system-ui, cursive !important;
     color: black;
     font-size: 23px;
 }
 
 .txt-big {
     font-size: 50px;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Tangerine', cursive !important;
 }
 
 .karibu-img {
